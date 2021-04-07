@@ -1,1 +1,1 @@
-# ikt-csoport-munka
+# ikt-csoport-munka, hello
